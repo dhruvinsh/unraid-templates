@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://github.com/dhruvinsh/ws-ephemeral/discussions</Support>
   <Project>https://github.com/dhruvinsh/ws-ephemeral</Project>
-  <Overview>For windscribe VPN user this tool allows you to automate the opening ephemeral port. For example P2P application behind VPN requires UDP port open, while using VPN, ephemeral port is great option but it comes with 7 days expiry.<br>This tool allows you to automate that part.</Overview>
+  <Overview>For windscribe VPN user this tool allows you to automate the opening ephemeral port. For example P2P application behind VPN requires UDP port open, while using VPN, ephemeral port is great option but it comes with 7 days expiry.[br]This tool allows you to automate that part.</Overview>
   <Category>Tools:</Category>
   <WebUI/>
   <TemplateURL/>
