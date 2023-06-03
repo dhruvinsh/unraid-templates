@@ -24,7 +24,7 @@
   <Requires/>
   <Config Name="WS_USERNAME" Target="WS_USERNAME" Default="" Mode="" Description="windscribe username" Type="Variable" Display="always" Required="true" Mask="false" />
   <Config Name="WS_PASSWORD" Target="WS_PASSWORD" Default="" Mode="" Description="windscribe password" Type="Variable" Display="always" Required="true" Mask="true" />
-  <Config Name="WS_EPHEMERAL_PORT" Target="WS_EPHEMERAL_PORT" Default="" Mode="" Description="Valid ephemeral port number need to be inbetween 2000 to 65365." Type="Variable" Display="always" Required="true" Mask="false" />
+  <Config Name="WS_EPHEMERAL_PORT" Target="WS_EPHEMERAL_PORT" Default="" Mode="" Description="[Only for v1]Valid ephemeral port number need to be inbetween 2000 to 65365." Type="Variable" Display="always" Required="false" Mask="false" />
   <Config Name="QBIT_USERNAME" Target="QBIT_USERNAME" Default="" Mode="" Description="qbit username" Type="Variable" Display="always" Required="true" Mask="false" />
   <Config Name="QBIT_PASSWORD" Target="QBIT_PASSWORD" Default="" Mode="" Description="qbit password" Type="Variable" Display="always" Required="true" Mask="true" />
   <Config Name="QBIT_HOST" Target="QBIT_HOST" Default="" Mode="" Description="qbit hostname" Type="Variable" Display="always" Required="true" Mask="false" />
